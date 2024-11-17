@@ -1,0 +1,3 @@
+/home/heirish/myproj/ccpp/sd-dbus/build/CMakeFiles/main.dir
+/home/heirish/myproj/ccpp/sd-dbus/build/CMakeFiles/edit_cache.dir
+/home/heirish/myproj/ccpp/sd-dbus/build/CMakeFiles/rebuild_cache.dir

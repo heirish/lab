@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -std=c++14 -fdiagnostics-all-candidates -rdynamic CMakeFiles/main.dir/main.o -o main  -lsystemd
