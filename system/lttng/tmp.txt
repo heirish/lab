@@ -1,5 +1,7 @@
 /dev/mmcblk0p2   29G  2.9G   25G  11% /
 
-/dev/mmcblk0p2   29G  3.4G   25G  13% 
+/dev/mmcblk0p2   29G  3.4G   25G  13% /
 
-/dev/mmcblk0p2   29G  3.5G   24G  13% /
+/dev/mmcblk0p2   29G  3.5G   24G  13% / 
+
+/dev/mmcblk0p2   29G  4.5G   24G  17% /
